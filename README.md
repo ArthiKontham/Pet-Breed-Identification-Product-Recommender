@@ -67,13 +67,6 @@ Breed Identification	89.25%
 Food Quality Check	66.67%
 Product Recommendation	79.17%
 
-## 7. Project Structure
-Pet-Breed-Identification-Product-Recommender/
-│
-├── README.md
-├── Pet_Breed_Identification_Product_Recommender.ipynb
-└── project-preview.png
-
 The notebook contains the complete project workflow, including dataset preparation, model training, evaluation, prediction, recommendation, and the Gradio interface.
 
 ## 8. How to Run
